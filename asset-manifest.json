@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/car-guys/static/css/main.07edcd0c.css",
+    "main.js": "/car-guys/static/js/main.1efa4e36.js",
+    "static/media/bg-mobile.jpg": "/car-guys/static/media/bg-mobile.b83545c53ee6f3cae954.jpg",
+    "static/media/bg.jpg": "/car-guys/static/media/bg.1133eec811b9bc4c6cf9.jpg",
+    "static/media/user.png": "/car-guys/static/media/user.03997f162c13ad550781.png",
+    "static/media/logo.png": "/car-guys/static/media/logo.2729f3fa217cffa009af.png",
+    "index.html": "/car-guys/index.html",
+    "main.07edcd0c.css.map": "/car-guys/static/css/main.07edcd0c.css.map",
+    "main.1efa4e36.js.map": "/car-guys/static/js/main.1efa4e36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07edcd0c.css",
+    "static/js/main.1efa4e36.js"
+  ]
+}
